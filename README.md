@@ -32,7 +32,11 @@
 - ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📈 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNoobland&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## GLKraken#9012 Discord
-# Badges from https://github.com/Ileriayo/markdown-badges
+
+#### GLKraken#9012 Discord
+##### Badges from https://github.com/Ileriayo/markdown-badges
+##### Stats from https://github.com/anuraghazra/github-readme-stats
