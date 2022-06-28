@@ -1,5 +1,5 @@
 ## 👋 Hi there, I am GLKraken ...
-- Bolivian dev
+- Bolivian
 - Still in high school
 
 ### 🌎 Languages
